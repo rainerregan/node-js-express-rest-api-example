@@ -1,0 +1,16 @@
+{
+  "name": "js-express-rest-api-example",
+  "version": "1.0.0",
+  "description": "Example of using nodejs, express, and mongodb for REST API Development",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
